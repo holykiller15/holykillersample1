@@ -1,2 +1,2 @@
 # holykillersample1
-just a sample
+this is just a sample
